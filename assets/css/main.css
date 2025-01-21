@@ -912,7 +912,7 @@ section-title
   display: none;
 }
 
-.navbar-nav .nav-item .nav-link::before {
+/* .navbar-nav .nav-item .nav-link::before {
   content: '\f078';
   position: absolute;
   font-family: "Font Awesome 5 pro";
@@ -920,7 +920,7 @@ section-title
   right: -23px;
   top: 44%;
   z-index: 1;
-}
+} */
 
 .navbar-nav .nav-item .nav-link:hover {
   color: #2878EB;
